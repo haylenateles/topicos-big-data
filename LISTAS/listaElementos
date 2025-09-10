@@ -1,0 +1,7 @@
+# criacao de um lista
+frutas = ["caju", "abacaxi", "banana", "uva"]
+#exibir elementos da lista usando print normal
+# print (frutas)
+# exibir elementos usando o for
+for fruta in frutas:
+    print (fruta)
